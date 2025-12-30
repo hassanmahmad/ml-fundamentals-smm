@@ -140,4 +140,4 @@ jupyter notebook
 
 ---
 
-*This project was completed as part of a Scientific Machine Learning course, demonstrating proficiency in implementing ML algorithms from mathematical foundations.*
+*This project was completed as part of a Statistical Mathematical Models course, demonstrating proficiency in implementing ML algorithms from mathematical foundations.*
